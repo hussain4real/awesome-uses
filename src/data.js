@@ -78,6 +78,26 @@ const pages = [
       'Blogger',
     ],
   },
+   {
+    name: 'Hussain Aminu',
+    description: 'Web developer, Data Scientist',
+    url: 'https://hussain4real.github.io/Portfolio/uses',
+    twitter: '@hussain4real',
+    emoji: '🔥',
+    country: 'NG',
+    computer: 'windows',
+    phone: 'android',
+    tags: [
+      'Developer',
+      'Full Stack',
+      'Data science',
+      'JavaScript',
+      'Vue',
+      'Node',
+      'Django',
+      'Python'     
+    ],
+  },
   {
     name: 'Glenn Reyes',
     description:
@@ -437,6 +457,17 @@ const pages = [
     tags: ['Full Stack', 'Developer', 'Front End', 'JavaScript', 'React'],
   },
   {
+    name: 'Béla Varga',
+    description: 'Developer & Designer',
+    url: 'http://ecmanauten.de/',
+    twitter: '@netzzwerg',
+    emoji: '🍺',
+    country: '🇩🇪',
+    computer: 'apple',
+    phone: 'android',
+    tags: ['JavaScript', 'Developer', 'Event Organizer', 'Teacher', 'Vue'],
+  },
+  {
     name: "David O'Trakoun",
     description: 'Software Engineer',
     url: 'https://www.davidosomething.com/uses/',
@@ -709,7 +740,7 @@ const pages = [
       'Full Stack',
       'PHP',
       'Laravel',
-      'AWS',
+      'AWS'
       'JavaScript',
       'React',
       'Node',
@@ -895,14 +926,25 @@ const pages = [
   },
   {
     name: 'Mike Barkmin',
+    // Short description
     description:
       "I'm a passionate developer and researcher at the University of Duisburg-Essen at the chair of Computer Science Education.",
+    // URL to your /uses page
     url: 'https://www.barkmin.eu/uses/',
     twitter: '@mikebarkmin',
+    // An emoji that describes you
     emoji: '🐧',
+    // emoji of your country's flag
     country: '🇩🇪',
+    // ONE of: apple, windows or linux
     computer: 'linux',
+    // iphone or android
     phone: 'android',
+    // Tags - You can add your own, but please keep it to one word. "Social vape entrepreneur influencer denver" isn't a tag.
+
+    // Dev Tags: Engineer, Developer, Designer, Front End, Back End, Full Stack,
+    // Other: Tags: Entrepreneur, Teacher, Podcaster, YouTuber, Blogger, Speaker,
+    // Language Tags: JavaScript, PHP, Rails, Ruby, TypeScript, React, Vue, Node
     tags: [
       'Developer',
       'Full Stack',
@@ -914,26 +956,6 @@ const pages = [
       'JavaScript',
       'React',
       'Node',
-    ],
-  },
-  {
-    name: 'Steve Heyes',
-    description:
-      'I like to use tech to build awesome things that makes peoples lives better',
-    url: 'https://steveheyes.co.uk/uses',
-    twitter: '@mrsteveheyes',
-    emoji: '👋',
-    country: '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
-    computer: 'apple',
-    phone: 'iphone',
-    tags: [
-      'Developer',
-      'Full Stack',
-      'Ruby',
-      'Rails',
-      'JavaScript',
-      'React',
-      'React Native',
     ],
   },
 ];
